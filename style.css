@@ -1,0 +1,36 @@
+h1 {
+    color: chocolate;
+    text-transform: uppercase;
+}
+
+.firstwords {
+    color: blue;
+    font-style: oblique;
+}
+
+#secondwords {
+    color: brown;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+[type="text"] {
+    color: rgb(28, 69, 255);
+    text-shadow: 2px;
+    border: 20px;
+}
+
+div p {
+    color: blue;
+    background-color: rgb(152, 106, 106);
+}
+
+ul > li {
+    color: darkmagenta;
+    text-decoration: line-through;
+}
+
+div .lastwords {
+    background-color: darkslategray;
+    color: black;
+}
